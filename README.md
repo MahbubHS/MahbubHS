@@ -4,12 +4,19 @@
 
 <br clear="both">
 
+<h1 align="center">My Personal Portfolio Website</h1>
+
+<p align="center">This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and experience as a Next-Gen Software Engineer.</p>
+
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/refs/heads/main/thumb-modified.png"/>
+  <img height="200" src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/refs/heads/main/thumb-modified.png" alt="Website Preview"/>
 </div>
 
-<p align="center">Next-Gen Software Engineer</p>
+## About This Site
 
+This website serves as a central hub to find information about me, my work, and my technical abilities. It's a place where I can share my projects, write about technology, and connect with other developers and potential collaborators.
+
+### Technologies Used
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript" height="27" alt="javascript logo"  />
@@ -53,12 +60,16 @@
 
 <br clear="both">
 
+## My GitHub Stats
+
 <div align="center">
   <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=MahbubHS&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
   </a><a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahbubHS&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph"  /></a>
 </div>
+
+## Connect with Me
 
 <div align="center">
   <a href="mailto:m.saad.bd.71@gmail.com" target="_blank">
@@ -82,12 +93,17 @@
   <a href="https://www.instagram.com/xMahbubHS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="" alt="instagram logo"  />
   </a>
+</div>
 
 <br clear="both">
 <a href="#">
 <img src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/output/snake.svg" alt="Snake animation" /></a>
 
 <br clear="both">
+
+## License
+
+This project is licensed under the MIT License.
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MahbubHS.MahbubHS&right_color=coral" />

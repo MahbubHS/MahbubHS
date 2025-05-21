@@ -1,51 +1,60 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
+# Controls when the workflow will run
 on:
-  # Runs on pushes targeting the default branch
+  # Triggers the workflow on push events but only for the main branch
   push:
     branches: ["main"]
 
-  # Allows you to run this workflow manually from the Actions tab
+  # Allows this workflow to be run manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# Sets the permissions granted to the GITHUB_TOKEN for this workflow.
+# This is necessary for deploying to GitHub Pages.
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: read  # Allows reading the repository contents.
+  pages: write     # Allows writing to GitHub Pages.
+  id-token: write  # Allows authentication with OIDC.
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Configures concurrency to ensure that only one deployment runs at a time.
+# If a new workflow run is triggered while another is in progress, the new run will wait.
+# `cancel-in-progress: false` ensures that in-progress production deployments are not cancelled.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Build job
+  # Defines the 'build' job, which is responsible for building the Jekyll site.
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest # Specifies that the job will run on the latest version of Ubuntu.
     steps:
+      # Step 1: Checks out the repository's code.
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 # Uses the official 'checkout' action.
+      # Step 2: Configures GitHub Pages for the deployment.
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v5 # Uses the official 'configure-pages' action.
+      # Step 3: Builds the Jekyll site.
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+        uses: actions/jekyll-build-pages@v1 # Uses the official 'jekyll-build-pages' action.
         with:
-          source: ./
-          destination: ./_site
+          source: ./ # Specifies the source directory for the Jekyll site.
+          destination: ./_site # Specifies the destination directory for the built site.
+      # Step 4: Uploads the built site as an artifact.
+      # This artifact will be used by the 'deploy' job.
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
-  # Deployment job
+  # Defines the 'deploy' job, which is responsible for deploying the built site to GitHub Pages.
   deploy:
     environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
+      name: github-pages # Specifies the deployment environment.
+      url: ${{ steps.deployment.outputs.page_url }} # Sets the URL of the deployed site.
+    runs-on: ubuntu-latest # Specifies that the job will run on the latest version of Ubuntu.
+    needs: build # Specifies that the 'deploy' job depends on the successful completion of the 'build' job.
     steps:
+      # Step 1: Deploys the artifact (built site) to GitHub Pages.
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        id: deployment # Assigns an ID to this step for referencing its outputs.
+        uses: actions/deploy-pages@v4 # Uses the official 'deploy-pages' action.

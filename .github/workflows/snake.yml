@@ -1,34 +1,51 @@
+# Workflow name
 name: Generate snake animation
 
+# Controls when the workflow will run
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  # Triggers the workflow on a schedule.
+  # In this case, it runs every 12 hours.
+  schedule:
+    - cron: "* */12 * * *" # Cron syntax for "at minute 0 past every 12th hour"
 
+  # Allows this workflow to be run manually from the Actions tab
   workflow_dispatch:
 
+  # Triggers the workflow on push events but only for the master branch.
+  # Note: It's generally recommended to use 'main' as the default branch name.
   push:
     branches:
     - master
 
 jobs:
+  # Defines the 'generate' job, which is responsible for creating and pushing the snake animation SVG.
   generate:
+    # Sets the permissions granted to the GITHUB_TOKEN for this job.
     permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+      contents: write # Allows writing content to the repository (e.g., pushing the generated SVG).
+    runs-on: ubuntu-latest # Specifies that the job will run on the latest version of Ubuntu.
+    timeout-minutes: 5 # Sets a timeout for the job to prevent it from running indefinitely.
 
     steps:
+      # Step 1: Generates the snake.svg file.
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3 # Uses the 'Platane/snk/svg-only' action.
+        # This action generates an SVG animation of GitHub contribution activity, resembling a snake game.
         with:
+          # Specifies the GitHub username to fetch contribution data for.
+          # `${{ github.repository_owner }}` dynamically uses the owner of the repository where this workflow runs.
           github_user_name: ${{ github.repository_owner }}
+          # Defines the output path and filename for the generated SVG.
+          # The `?palette=github-dark` part customizes the color scheme of the animation.
           outputs: dist/snake.svg?palette=github-dark
 
-
+      # Step 2: Pushes the generated snake.svg to the 'output' branch.
       - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0 # Uses the 'crazy-max/ghaction-github-pages' action.
+        # This action is commonly used for deploying static sites to GitHub Pages, but here it's used to push a file to a specific branch.
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output # Specifies the branch to push the generated file to.
+          build_dir: dist # Specifies the directory containing the file to be pushed (the 'dist' directory where snake.svg was saved).
         env:
+          # Provides the GITHUB_TOKEN to the action, which is necessary for it to have write access to the repository.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
