@@ -42,19 +42,23 @@ Slide into my inbox or ping me here:
 
 ## 🔧 My Tech Toolbox
 
-### 💻 Languages
+- 💻 Languages
+
 | JavaScript | TypeScript | Java | Python | C++ |
 |------------|------------|------|--------|-----|
 
-### 🧰 Frameworks
+- 🧰 Frameworks
+  
 | React | Next.js | Express | TailwindCSS |
 |--------|---------|---------|--------------|
 
-### ⚙️ DevOps
+- ⚙️ DevOps
+
 | Git | Docker | Linux | CI/CD |
 |-----|--------|--------|--------|
 
-### 🧠 Tools & More
+- 🧠 Tools & More
+  
 | VSCode | Postman | Figma | MongoDB | PostgreSQL |
 |--------|---------|--------|---------|--------------|
 
