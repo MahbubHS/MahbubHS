@@ -7,52 +7,49 @@
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/refs/heads/main/thumb-modified.png"/>
 </div>
-
-<p align="center">Next-Gen Software Engineer</p>
-
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" height="27" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="27" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="27" alt="express logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="30" alt="markdown logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="30" alt="yarn logo"  />
+  Yo, I'm Saad
+
+> Code Ninja by Day, Bug Slayer by Night 🐛⚔️
+
+## 🚀 About Me
+I'm a **Software Engineer** with a burning passion for building stuff that matters (and sometimes just for fun 💥).  
+I believe in clean code, caffeinated nights ☕, and the magic of <br>
+`git commit -m "it works!"`
+
+> 🧠 Forever curious. Always learning. Breaking things (responsibly) since day one.
+
+## 🌱 Currently on My Dev Radar
+- 🛠️ Mastering **Full Stack Dev** — React ⚛️, Node.js, PostgreSQL, and Docker 🐳  
+- 🔍 Exploring **AI tools** & automation scripts to make life easier  
+- 💡 Building side projects to stay sharp & share knowledge
+  
+> 💬 “Code like nobody’s watching. Push like everyone is.”
+Saad, probably while fixing a bug at 3AM 🫠
+
+## ✍️ I Speak Through Code (and soon, Blogs)
+Right now, I’m focused on coding, building, and experimenting 🧪  
+Soon, I’ll start sharing my journey, dev tips, and lessons learned — stay tuned 👀
+
+> ⚡ Until then, you can follow my GitHub to see what I’m building!
+
+## 📬 Wanna Say Hi?
+Slide into my inbox or ping me here:
+- ✉️ Email: `m.saad.bd.71@gmail.com`
+- 🧠 LinkedIn: [Saad Ahmed](https://linkedin.com/in/xMahbubHS)
+- 🐦 Twitter/X: [@xMahbubHS](https://twitter.com/xMahbubHS)
+- 🌐 Portfolio: *(coming soon... maybe 👀)*
+
+## 🔧 My Tech Toolbox
+
+- 💻 Languages:     JavaScript | TypeScript | Java | Python | C++
+- 🧰 Frameworks:    React | Next.js | Express | TailwindCSS
+- ⚙️ DevOps:        Git | Docker | Linux | CI/CD
+- 🧠 Tools & More:  VSCode | Postman | Figma | MongoDB | PostgreSQL
 </div>
 
 <br clear="both">
-
+---
 <div align="center">
   <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=MahbubHS&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
