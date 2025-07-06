@@ -8,7 +8,9 @@
   <img height="200" src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/refs/heads/main/thumb-modified.png"/>
 </div>
 <div align="center">
-  Yo, I'm Saad
+  
+  **I'm Saad**
+</div>
 
 > Code Ninja by Day, Bug Slayer by Night 🐛⚔️
 
@@ -24,8 +26,7 @@ I believe in clean code, caffeinated nights ☕, and the magic of <br>
 - 🔍 Exploring **AI tools** & automation scripts to make life easier  
 - 💡 Building side projects to stay sharp & share knowledge
   
-> 💬 “Code like nobody’s watching. Push like everyone is.”
-Saad, probably while fixing a bug at 3AM 🫠
+> 💬 “Code like nobody’s watching. Push like everyone is.”<br>Saad, probably while fixing a bug at 3AM 🫠
 
 ## ✍️ I Speak Through Code (and soon, Blogs)
 Right now, I’m focused on coding, building, and experimenting 🧪  
@@ -46,10 +47,10 @@ Slide into my inbox or ping me here:
 - 🧰 Frameworks:    React | Next.js | Express | TailwindCSS
 - ⚙️ DevOps:        Git | Docker | Linux | CI/CD
 - 🧠 Tools & More:  VSCode | Postman | Figma | MongoDB | PostgreSQL
-</div>
-
 <br clear="both">
+
 ---
+
 <div align="center">
   <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=MahbubHS&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
