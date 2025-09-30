@@ -44,24 +44,30 @@ Slide into my inbox or ping me here:
 ## 🔧 My Tech Toolbox
 
 - 💻 Languages
-
-| JavaScript | TypeScript | Java | Python | C++ |
-|------------|------------|------|--------|-----|
+  - JavaScript
+  - TypeScript
+  - Java
+  - Python
+  - C++
 
 - 🧰 Frameworks
-  
-| React | Next.js | Express | TailwindCSS |
-|--------|---------|---------|--------------|
+  - React
+  - Next.js
+  - Express
+  - Tailwind CSS
 
 - ⚙️ DevOps
-
-| Git | Docker | Linux | CI/CD |
-|-----|--------|--------|--------|
+  - Git
+  - Docker
+  - Linux
+  - CI/CD
 
 - 🧠 Tools & More
-  
-| VSCode | Postman | Figma | MongoDB | PostgreSQL |
-|--------|---------|--------|---------|--------------|
+  - VSCode
+  - Postman
+  - Figma
+  - MongoDB
+  - PostgreSQL
 
 <br clear="both">
 
