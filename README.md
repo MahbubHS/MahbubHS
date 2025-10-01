@@ -15,6 +15,8 @@
 > Code Ninja by Day, Bug Slayer by Night 🐛⚔️
 
 ## 🚀 About Me
+[![committers.top](https://user-badge.committers.top/bangladesh/MahbubHS.svg)](https://user-badge.committers.top/bangladesh/MahbubHS)
+
 I'm a **Software Engineer** with a burning passion for building stuff that matters (and sometimes just for fun 💥).  
 I believe in clean code, caffeinated nights ☕, and the magic of <br>
 `git commit -m "it works!"`
