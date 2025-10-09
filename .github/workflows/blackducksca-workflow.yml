@@ -28,7 +28,7 @@ jobs:
         id: black-duck-security-scan
         uses: blackduck-inc/black-duck-security-scan@v2
         with:
-          blackducksca_url: ${{ vars.BLACKDUCKSCA_URL }}
+          blackducksca_url: ${{ secrets.BLACKDUCKSCA_URL }}
           blackducksca_token: ${{ secrets.BLACKDUCKSCA_TOKEN }}
           blackducksca_waitForScan: true
           mark_build_status: failure
