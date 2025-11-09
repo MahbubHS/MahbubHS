@@ -1,15 +1,17 @@
 <br>
-<h2 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32" width="32"/></h2><br>
+<h2 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" height="32" width="32"/></h2>
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=4E83BC&center=true&vCenter=true&random=true&width=450&separator=%3C&lines=print(%22I'm+Saad%22)%3CIf+it+works%2C+don%E2%80%99t+touch+it+%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F%3CTyping+%3D%3D%3D+thinking+%F0%9F%A4%94%E2%8C%A8%EF%B8%8F%3CBuilding+logic.+Breaking+assumptions.+%F0%9F%A7%A0%F0%9F%92%A5%3CKeyboard%3A+my+weapon+of+choice+%F0%9F%8E%AF%E2%8C%A8%EF%B8%8F%3CBinary+blood%2C+logic+soul+%F0%9F%A7%AC%F0%9F%92%A1%3CZeros+and+ones%2C+but+always+original+%F0%9F%94%A5%3CClean+code%2C+dirty+mind+%F0%9F%98%8F%F0%9F%A7%BC%3CCurrently+debugging+my+life...+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3C%F0%9F%90%9E+Bug+Killer+%E2%80%93+sometimes+it+destroys+me+%F0%9F%92%80%F0%9F%90%9B" alt="Typing SVG" />
-<br clear="both">
+
+<br>
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/refs/heads/main/thumb-modified.png"/>
+  <img height="200" src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/refs/heads/main/thumb-modified.png" alt="Profile image"/>
 </div>
+
 <div align="center">
-  
-  ****I'm MD Mahbub Hasan Shad****
-  
+  I'm <strong>MD Mahbub Hasan Shad</strong>
 </div>
 
 > Code Ninja by Day, Bug Slayer by Night 🐛⚔️
@@ -18,7 +20,7 @@
 [![committers.top](https://user-badge.committers.top/bangladesh/MahbubHS.svg)](https://user-badge.committers.top/bangladesh/MahbubHS)
 
 I'm a **Software Engineer** with a burning passion for building stuff that matters (and sometimes just for fun 💥).  
-I believe in clean code, caffeinated nights ☕, and the magic of <br>
+I believe in clean code, caffeinated nights ☕, and the magic of  
 `git commit -m "it works!"`
 
 > 🧠 Forever curious. Always learning. Breaking things (responsibly) since day one.
@@ -28,13 +30,14 @@ I believe in clean code, caffeinated nights ☕, and the magic of <br>
 - 🔍 Exploring **AI tools** & automation scripts to make life easier  
 - 💡 Building side projects to stay sharp & share knowledge
   
-> 💬 “Code like nobody’s watching. Push like everyone is.”<br>Saad, probably while fixing a bug at 3AM 🫠
+> 💬 "Code like nobody's watching. Push like everyone is."  
+> Saad, probably while fixing a bug at 3AM 🫠
 
 ## ✍️ I Speak Through Code (and soon, Blogs)
-Right now, I’m focused on coding, building, and experimenting 🧪  
-Soon, I’ll start sharing my journey, dev tips, and lessons learned — stay tuned 👀
+Right now, I'm focused on coding, building, and experimenting 🧪  
+Soon, I'll start sharing my journey, dev tips, and lessons learned — stay tuned 👀
 
-> ⚡ Until then, you can follow my GitHub to see what I’m building!
+> ⚡ Until then, you can follow my GitHub to see what I'm building!
 
 ## 📬 Wanna Say Hi?
 Slide into my inbox or ping me here:
@@ -44,72 +47,78 @@ Slide into my inbox or ping me here:
 - 🌐 Portfolio: *(coming soon... maybe 👀)*
 
 ## 🔧 My Tech Toolbox
-
-- 💻 Languages
-  - JavaScript
-  - TypeScript
-  - Java
-  - Python
-  - C++
-
-- 🧰 Frameworks
-  - React
-  - Next.js
-  - Express
-  - Tailwind CSS
-
-- ⚙️ DevOps
-  - Git
-  - Docker
-  - Linux
-  - CI/CD
-
-- 🧠 Tools & More
-  - VSCode
-  - Postman
-  - Figma
-  - MongoDB
-  - PostgreSQL
-
-<br clear="both">
-
+	
+### 💻 Languages
+- <img src="https://skillicons.dev/icons?i=js" width="25" height="25"/> JavaScript
+- <img src="https://skillicons.dev/icons?i=ts" width="25" height="25"/> TypeScript
+- <img src="https://skillicons.dev/icons?i=jquery" width="25" height="25"/> JQuery
+- <img src="https://skillicons.dev/icons?i=java" width="25" height="25"/> Java
+- <img src="https://skillicons.dev/icons?i=python" width="25" height="25"/> Python
+- <img src="https://skillicons.dev/icons?i=cpp" width="25" height="25"/> C++
+- <img src="https://skillicons.dev/icons?i=c" width="25" height="25"/> C
+		
+### 🧰 Frameworks
+- <img src="https://skillicons.dev/icons?i=react" width="25" height="25"/> React
+- <img src="https://skillicons.dev/icons?i=nextjs" width="25" height="25"/> Next.js
+- <img src="https://skillicons.dev/icons?i=express" width="25" height="25"/> Express
+- <img src="https://skillicons.dev/icons?i=tailwind" width="25" height="25"/> Tailwind CSS
+		
+### ⚙️ DevOps		
+- <img src="https://skillicons.dev/icons?i=git" width="25" height="25"/> Git
+- <img src="https://skillicons.dev/icons?i=githubactions" width="25" height="25"/> CI/CD (Github Action)
+- <img src="https://skillicons.dev/icons?i=docker" width="25" height="25"/> Docker
+- <img src="https://skillicons.dev/icons?i=linux" width="25" height="25"/> Linux
+	- <img src="https://skillicons.dev/icons?i=kali" width="25" height="25"/> Kali Linux
+	- <img src="https://skillicons.dev/icons?i=ubuntu" width="25" height="25"/> Ubuntu
+	- <img src="https://skillicons.dev/icons?i=bash" width="25" height="25"/> Termux
+		
+### 🧠 Tools & More
+- <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25"/> VSCode
+- <img src="https://skillicons.dev/icons?i=neovim" width="25" height="25"/> NeoVim
+- <img src="https://skillicons.dev/icons?i=postman" width="25" height="25"/> Postman
+- <img src="https://skillicons.dev/icons?i=figma" width="25" height="25"/> Figma
+- <img src="https://skillicons.dev/icons?i=mongodb" width="25" height="25"/> MongoDB
+- <img src="https://skillicons.dev/icons?i=postgresql" width="25" height="25"/> PostgreSQL
+		
 ---
 
 <div align="center">
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahbubHS&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
-  </a><a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahbubHS&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph"  /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=MahbubHS&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahbubHS&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph" />
+  </a>
 </div>
 
 <div align="center">
   <a href="mailto:m.saad.bd.71@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail logo" />
   </a>
   <a href="https://t.me/Saadahmed10x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" alt="telegram logo" />
   </a>
   <a href="https://www.hackerrank.com/profile/m_saad_bd_71" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" alt="hackerrank logo" />
   </a>
   <a href="https://www.linkedin.com/in/xMahbubHS" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height="" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
   <a href="https://www.facebook.com/xMahbubHS" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook logo" />
   </a>
   <a href="https://x.com/xMahbubHS" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" height="" alt="x logo"  />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="x logo" />
   </a>
   <a href="https://www.instagram.com/xMahbubHS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" alt="instagram logo" />
   </a>
+</div>
 
-<br clear="both">
-<a href="#">
-<img src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/output/snake.svg" alt="Snake animation" /></a>
-
-<br clear="both">
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MahbubHS.MahbubHS&right_color=coral" />
