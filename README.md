@@ -79,15 +79,11 @@ Slide into my inbox or ping me here:
 - <img src="https://skillicons.dev/icons?i=figma" width="25" height="25"/> Figma
 - <img src="https://skillicons.dev/icons?i=mongodb" width="25" height="25"/> MongoDB
 - <img src="https://skillicons.dev/icons?i=postgresql" width="25" height="25"/> PostgreSQL
-		
----
 
 <div align="center">
-	
-![](https://raw.githubusercontent.com/MahbubHS/github-stats-transparent/output/generated/overview.svg)	
-![](https://raw.githubusercontent.com/MahbubHS/github-stats-transparent/output/generated/languages.svg)
+	<img src="https://raw.githubusercontent.com/MahbubHS/github-stats-transparent/output/generated/overview.svg" alt="Overview" />
+	<img src="https://raw.githubusercontent.com/MahbubHS/github-stats-transparent/output/generated/languages.svg" alt="Languages" />
 </div>
-
 <div align="center">
   <a href="mailto:m.saad.bd.71@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail logo" />
@@ -111,12 +107,4 @@ Slide into my inbox or ping me here:
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" alt="instagram logo" />
   </a>
 </div>
-
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahbubHS.MahbubHS&right_color=coral" />
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/MahbubHS/MahbubHS/output/snake.svg" alt="Snake animation" /></div>
