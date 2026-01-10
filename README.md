@@ -83,12 +83,9 @@ Slide into my inbox or ping me here:
 ---
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=MahbubHS&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true" height="150" alt="stats graph" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahbubHS&hide_border=true&include_all_commits=true&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" alt="languages graph" />
-  </a>
+	
+![](https://raw.githubusercontent.com/MahbubHS/github-stats-transparent/output/generated/overview.svg)	
+![](https://raw.githubusercontent.com/MahbubHS/github-stats-transparent/output/generated/languages.svg)
 </div>
 
 <div align="center">
